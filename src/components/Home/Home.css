@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    display: flex;
+}
+.cart{
+    width:250px;
+    height: 500px;
+    background-color: #FFFFFF;
+    border-radius: 15px; 
+}
+
+.card{
+width:280px;
+background-color: #FFFFFF;
+border-radius: 15px;
+}
+.photo{
+border-radius: 10px;
+}
+.info{
+display: flex;
+justify-content: space-evenly;
+}
+.card-btn{
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+border: 1px solid #2F80ED;
+background: #2F80ED;
+}
+
+.card-container{
+width: 600px;
+display: grid;
+grid-template-columns: repeat(3, 1fr) ;
+gap: 15px;
+}

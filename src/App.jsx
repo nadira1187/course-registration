@@ -1,13 +1,14 @@
-import { useState } from 'react'
+/* eslint-disable no-undef */
 import './App.css'
+import Home from "./components/Home/Home";
 
 function App() {
-  const [count, setCount] = useState(0)
+   // eslint-disable-next-line no-unused-vars
+  //  const [totalCost,setTotalCost] = useState(0);
 
   return (
     <>
-      <div>
-      </div>
+    <Home></Home>
     </>
   )
 }

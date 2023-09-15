@@ -1,72 +1,72 @@
 [
     {
         "id": "1",
-        "course-title": "Python Object-Oriented Programming",
-        "cover-image": "https://example.com/python-oop.jpg",
+        "title": "Python Object-Oriented Programming",
+        "image": "https://i.ibb.co/xhfJ2Nk/Rectangle-2.png",
         "about": "Learn the principles of object-oriented programming (OOP) in Python, including classes, inheritance, and polymorphism.",
         "price": 49.99,
         "credit": 30
     },
     {
         "id": "2",
-        "course-title": "MySQL Fundamentals",
-        "cover-image": "https://example.com/mysql-fundamentals.jpg",
+        "title": "MySQL Fundamentals",
+        "image": "https://i.ibb.co/BVRTZ3t/Rectangle-2-1.png",
         "about": "Master the basics of MySQL, including database design, SQL queries, and data manipulation.",
         "price": 39.99,
         "credit": 25
     },
     {
         "id": "3",
-        "course-title": "C Programming for Beginners",
-        "cover-image": "https://example.com/c-programming.jpg",
+        "title": "C Programming for Beginners",
+        "image": "https://i.ibb.co/dD8q10T/Rectangle-2-2.png",
         "about": "Start your journey into programming with the C language. Learn syntax, data types, and basic algorithms.",
         "price": 29.99,
         "credit": 20
     },
     {
         "id": "4",
-        "course-title": "Data Structures in C++",
-        "cover-image": "https://example.com/data-structures-cpp.jpg",
+        "title": "Data Structures in C++",
+        "image": "https://i.ibb.co/fxjWHZK/Rectangle-2-4.png",
         "about": "Explore data structures and algorithms in C++. Topics include arrays, linked lists, and sorting algorithms.",
         "price": 59.99,
         "credit": 40
     },
     {
         "id": "5",
-        "course-title": "Algorithm Design and Analysis",
-        "cover-image": "https://example.com/algorithm-design.jpg",
+        "title": "Algorithm Design and Analysis",
+        "image": "https://i.ibb.co/G9rLd8r/Rectangle-2-3.png",
         "about": "Dive deep into algorithm design, complexity analysis, and problem-solving techniques.",
         "price": 69.99,
         "credit": 45
     },
     {
         "id": "6",
-        "course-title": "Software Engineering Principles",
-        "cover-image": "https://example.com/software-engineering.jpg",
+        "title": "Software Engineering Principles",
+        "image": "https://i.ibb.co/SQmqZ8z/Rectangle-2-5.png",
         "about": "Learn software engineering best practices, including agile development and version control.",
         "price": 49.99,
         "credit": 35
     },
     {
         "id": "7",
-        "course-title": "Problem Solving with Python",
-        "cover-image": "https://example.com/problem-solving-python.jpg",
+        "title": "Problem Solving with Python",
+        "image": "https://i.ibb.co/0ZbX5vG/Rectangle-2-6.png",
         "about": "Enhance your problem-solving skills using Python. Covering algorithms, data structures, and more.",
         "price": 54.99,
         "credit": 38
     },
     {
         "id": "8",
-        "course-title": "AWS Cloud Computing Fundamentals",
-        "cover-image": "https://example.com/aws-cloud.jpg",
+        "title": "AWS Cloud Computing Fundamentals",
+        "image": "https://i.ibb.co/GJPYhnw/Rectangle-3-1.png",
         "about": "Introduction to AWS cloud services, including EC2, S3, and Lambda functions.",
         "price": 79.99,
         "credit": 50
     },
     {
         "id": "9",
-        "course-title": "Advanced Data Structures and Algorithms",
-        "cover-image": "https://example.com/advanced-data-structures.jpg",
+        "title": "Advanced Data Structures and Algorithms",
+        "image": "https://i.ibb.co/k0h7DCx/Rectangle-3.png",
         "about": "Explore advanced data structures and algorithmic concepts, such as graphs and dynamic programming.",
         "price": 64.99,
         "credit": 42
