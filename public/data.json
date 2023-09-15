@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "course-title": "Python Object-Oriented Programming",
+        "cover-image": "https://example.com/python-oop.jpg",
+        "about": "Learn the principles of object-oriented programming (OOP) in Python, including classes, inheritance, and polymorphism.",
+        "price": 49.99,
+        "credit": 30
+    },
+    {
+        "id": "2",
+        "course-title": "MySQL Fundamentals",
+        "cover-image": "https://example.com/mysql-fundamentals.jpg",
+        "about": "Master the basics of MySQL, including database design, SQL queries, and data manipulation.",
+        "price": 39.99,
+        "credit": 25
+    },
+    {
+        "id": "3",
+        "course-title": "C Programming for Beginners",
+        "cover-image": "https://example.com/c-programming.jpg",
+        "about": "Start your journey into programming with the C language. Learn syntax, data types, and basic algorithms.",
+        "price": 29.99,
+        "credit": 20
+    },
+    {
+        "id": "4",
+        "course-title": "Data Structures in C++",
+        "cover-image": "https://example.com/data-structures-cpp.jpg",
+        "about": "Explore data structures and algorithms in C++. Topics include arrays, linked lists, and sorting algorithms.",
+        "price": 59.99,
+        "credit": 40
+    },
+    {
+        "id": "5",
+        "course-title": "Algorithm Design and Analysis",
+        "cover-image": "https://example.com/algorithm-design.jpg",
+        "about": "Dive deep into algorithm design, complexity analysis, and problem-solving techniques.",
+        "price": 69.99,
+        "credit": 45
+    },
+    {
+        "id": "6",
+        "course-title": "Software Engineering Principles",
+        "cover-image": "https://example.com/software-engineering.jpg",
+        "about": "Learn software engineering best practices, including agile development and version control.",
+        "price": 49.99,
+        "credit": 35
+    },
+    {
+        "id": "7",
+        "course-title": "Problem Solving with Python",
+        "cover-image": "https://example.com/problem-solving-python.jpg",
+        "about": "Enhance your problem-solving skills using Python. Covering algorithms, data structures, and more.",
+        "price": 54.99,
+        "credit": 38
+    },
+    {
+        "id": "8",
+        "course-title": "AWS Cloud Computing Fundamentals",
+        "cover-image": "https://example.com/aws-cloud.jpg",
+        "about": "Introduction to AWS cloud services, including EC2, S3, and Lambda functions.",
+        "price": 79.99,
+        "credit": 50
+    },
+    {
+        "id": "9",
+        "course-title": "Advanced Data Structures and Algorithms",
+        "cover-image": "https://example.com/advanced-data-structures.jpg",
+        "about": "Explore advanced data structures and algorithmic concepts, such as graphs and dynamic programming.",
+        "price": 64.99,
+        "credit": 42
+    }
+]
