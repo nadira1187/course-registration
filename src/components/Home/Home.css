@@ -4,6 +4,11 @@ body{
 .container{
     display: flex;
 }
+.course-title{
+    margin-top: 5px;
+    text-align: center;
+    
+}
 .cart{
     width:250px;
     height: 500px;
@@ -17,7 +22,7 @@ background-color: #FFFFFF;
 border-radius: 15px;
 }
 .photo{
-border-radius: 10px;
+border-radius: 5px;
 }
 .info{
 display: flex;

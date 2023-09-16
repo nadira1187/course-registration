@@ -1,8 +1,11 @@
 import  { useEffect } from "react";
 import Cart from "../Cart/Cart";
 import "./Home.css";
-import { useState } from "react";
-// import Swal from "sweetalert2/src/sweetalert2.js";
+// eslint-disable-next-line no-unused-vars
+import   React, { useState } from "react";
+import swal from 'sweetalert';
+
+
 
 const Home = () => {
     const [card, setCard] = useState([]);
@@ -19,22 +22,18 @@ const Home = () => {
     const handleSelectCourse = (course) => {
       const isExist = selectedCourse.find((item) => item.id == course.id);
   
-      let cost = course.price;
+      let cost = course.credit;
   
       if (isExist) {
-        return alert("already booked");
+        return swal("Already booked");
       } else {
         selectedCourse.forEach((item) => {
-          cost = cost + item.salary;
+          cost = cost + item.credit;
         });
-        const remaining = 20000 - cost;
-        if (cost > 20000) {
-        //   Swal.fire({
-        //     icon: "error",
-        //     title: "Oops...",
-        //     text: "Something went wrong!",
-        //     footer: '<a href="">Why do I have this issue?</a>',
-        //   });
+        const remaining = 20 - cost;
+        if (cost > 20) {
+            swal("Sorry, you are not able to add additional courses.");
+
         } else {
           setRemaining(remaining);
   
@@ -48,6 +47,7 @@ const Home = () => {
     return (
       <div className="container">
         <div className="home-container">
+            <h2 className="course-title">Course Registration</h2>
           <div className="card-container">
             {card.map((course) => (
               <div key={course.id} className="card">
@@ -76,7 +76,7 @@ const Home = () => {
         </div>
         <div className="cart">
             <Cart
-              selectedActors={selectedCourse}
+              selectedCourse={selectedCourse}
               remaining={remaining}
               totalCost={totalCost}
             ></Cart>

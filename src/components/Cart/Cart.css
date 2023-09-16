@@ -1,0 +1,11 @@
+.cart-container > h4 , h3{
+ text-align: center;
+}
+.cart-container > ol{
+    color: rgba(28, 27, 27, 0.60);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}

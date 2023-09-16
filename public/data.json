@@ -5,7 +5,7 @@
         "image": "https://i.ibb.co/xhfJ2Nk/Rectangle-2.png",
         "about": "Learn the principles of object-oriented programming (OOP) in Python, including classes, inheritance, and polymorphism.",
         "price": 49.99,
-        "credit": 30
+        "credit": 3
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "image": "https://i.ibb.co/BVRTZ3t/Rectangle-2-1.png",
         "about": "Master the basics of MySQL, including database design, SQL queries, and data manipulation.",
         "price": 39.99,
-        "credit": 25
+        "credit": 10
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "image": "https://i.ibb.co/dD8q10T/Rectangle-2-2.png",
         "about": "Start your journey into programming with the C language. Learn syntax, data types, and basic algorithms.",
         "price": 29.99,
-        "credit": 20
+        "credit": 5
     },
     {
         "id": "4",
