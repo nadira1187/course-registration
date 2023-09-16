@@ -13,7 +13,7 @@
         "image": "https://i.ibb.co/BVRTZ3t/Rectangle-2-1.png",
         "about": "Master the basics of MySQL, including database design, SQL queries, and data manipulation.",
         "price": 39.99,
-        "credit": 10
+        "credit": 5
     },
     {
         "id": "3",
@@ -29,7 +29,7 @@
         "image": "https://i.ibb.co/fxjWHZK/Rectangle-2-4.png",
         "about": "Explore data structures and algorithms in C++. Topics include arrays, linked lists, and sorting algorithms.",
         "price": 59.99,
-        "credit": 40
+        "credit": 4
     },
     {
         "id": "5",
@@ -37,7 +37,7 @@
         "image": "https://i.ibb.co/G9rLd8r/Rectangle-2-3.png",
         "about": "Dive deep into algorithm design, complexity analysis, and problem-solving techniques.",
         "price": 69.99,
-        "credit": 45
+        "credit": 5
     },
     {
         "id": "6",
@@ -45,7 +45,7 @@
         "image": "https://i.ibb.co/SQmqZ8z/Rectangle-2-5.png",
         "about": "Learn software engineering best practices, including agile development and version control.",
         "price": 49.99,
-        "credit": 35
+        "credit": 3
     },
     {
         "id": "7",
@@ -53,7 +53,7 @@
         "image": "https://i.ibb.co/0ZbX5vG/Rectangle-2-6.png",
         "about": "Enhance your problem-solving skills using Python. Covering algorithms, data structures, and more.",
         "price": 54.99,
-        "credit": 38
+        "credit": 3
     },
     {
         "id": "8",
@@ -61,7 +61,7 @@
         "image": "https://i.ibb.co/GJPYhnw/Rectangle-3-1.png",
         "about": "Introduction to AWS cloud services, including EC2, S3, and Lambda functions.",
         "price": 79.99,
-        "credit": 50
+        "credit": 5
     },
     {
         "id": "9",
@@ -69,6 +69,6 @@
         "image": "https://i.ibb.co/k0h7DCx/Rectangle-3.png",
         "about": "Explore advanced data structures and algorithmic concepts, such as graphs and dynamic programming.",
         "price": 64.99,
-        "credit": 42
+        "credit": 4
     }
 ]

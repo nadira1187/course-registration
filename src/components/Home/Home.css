@@ -1,32 +1,64 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-.container{
+.home-container{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
 }
+
+.card-container{
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+    gap: 15px;
+    }
 .course-title{
     margin-top: 5px;
+    font-family: Inter;
     text-align: center;
     
 }
 .cart{
-    width:250px;
+    width:230px;
     height: 500px;
     background-color: #FFFFFF;
     border-radius: 15px; 
 }
 
 .card{
-width:280px;
+width:270px;
 background-color: #FFFFFF;
 border-radius: 15px;
 }
 .photo{
 border-radius: 5px;
 }
+.about{
+    color: rgba(28, 27, 27, 0.60);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
+.title{
+    color: #1C1B1B;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
 .info{
 display: flex;
 justify-content: space-evenly;
+}
+.info-price{
+    display: flex;
+    justify-content: center;
+    font-family: Inter;
 }
 .card-btn{
     width: 250px;
@@ -36,9 +68,3 @@ border: 1px solid #2F80ED;
 background: #2F80ED;
 }
 
-.card-container{
-width: 600px;
-display: grid;
-grid-template-columns: repeat(3, 1fr) ;
-gap: 15px;
-}
